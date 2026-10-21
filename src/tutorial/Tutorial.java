@@ -8,13 +8,21 @@ package tutorial;
  *
  * @author Students Account
  */
+
+import java.util.*;
 public class Tutorial {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
         // TODO code application logic here
+        
+        
+        //WILL TEST ON THIS PART TO SHOW HOW GIT WORKS
+        
+        
     }
     
 }
